@@ -13,7 +13,6 @@ import "C"
 
 import (
 	"fmt"
-	"os"
 )
 
 type LifeSpanHandler struct {

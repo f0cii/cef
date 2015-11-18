@@ -1,5 +1,5 @@
 // Website: https://github.com/CzarekTomczak/cef2go
-// Website: https://github.com/nvsoft/cef
+// Website: https://github.com/lroc/cef
 
 package cef
 
@@ -21,7 +21,7 @@ CEF capi fixes
 
 /*
 #cgo CFLAGS: -I.
-#cgo LDFLAGS: -L./lib -lcef_sandbox
+#cgo LDFLAGS: -L./Release -lcef_sandbox
 #include <stdlib.h>
 #include "string.h"
 #include "cef_app.h"
