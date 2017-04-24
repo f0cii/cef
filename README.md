@@ -12,3 +12,5 @@ How to build on Windows platform (Win7 32/64-bit).
    Copy Release/* to cef/Release
    Copy Resources/* to cef/Release
 4. Run [go build] in the directory
+
+This code only supports Windows platforms.
